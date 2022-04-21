@@ -16,8 +16,8 @@
 [![website](./img/globe-light.svg)](https://yoursoftwaredev.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://yoursoftwaredev.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/yoursoftwaredev#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/yoursoftwaredev#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCVa_gyEymbpP5MaGtdM6r7Q#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCVa_gyEymbpP5MaGtdM6r7Q#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ibrahimnd2000#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ibrahimnd20000#gh-dark-mode-only)
