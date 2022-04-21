@@ -3,11 +3,10 @@
 [![Website](https://img.shields.io/website?label=yoursoftwaredev.com&style=for-the-badge&url=https%3A%2F%2Fyoursoftwaredev.com)](https://yoursoftwaredev.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimnd2000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fibrahimnd2000&screen_name=ibrahimnd2000)
 
-## I'm a FullStack Developer, having expertise in Mobile App Development using Flutter, & Web App Development using Angular.
+## FullStack Developer (Flutter, Android & IOS)
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
