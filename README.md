@@ -1,7 +1,7 @@
 # Hi there, I'm Ibrahim - aka [YourSoftwareDev][website] 👋
 
 [![Website](https://img.shields.io/website?label=yoursoftwaredev.com&style=for-the-badge&url=https%3A%2F%2Fyoursoftwaredev.com)](https://yoursoftwaredev.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimnd2000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fibrahimnd2000&screen_name=ibrahimnd2000)
 
 ## I'm a FullStack Developer, having expertise in Mobile App Development using Flutter, & Web App Development using Angular.
 
