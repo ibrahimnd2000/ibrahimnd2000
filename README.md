@@ -20,7 +20,7 @@
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCVa_gyEymbpP5MaGtdM6r7Q#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ibrahimnd2000#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ibrahimnd20000#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ibrahimnd2000#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ibrahimnd#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ibrahimnd#gh-dark-mode-only)
