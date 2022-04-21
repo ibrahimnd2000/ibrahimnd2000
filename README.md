@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimnd2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimnd2000&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
