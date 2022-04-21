@@ -27,8 +27,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/ibrahimnd2000#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ibrahimnd2000#gh-dark-mode-only)
 
-<br />
-<br />
+### My Stats
 
 [![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimnd2000&theme=rose_pine&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
