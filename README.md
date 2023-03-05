@@ -1,13 +1,13 @@
-# Hi there, I'm Ibrahim - aka [YourSoftwareDev][website] 👋
+# Hi there, I'm Ibrahim - aka [ITECHTEAMS][website] 👋
 
-[![Website](https://img.shields.io/website?label=yoursoftwaredev.com&style=for-the-badge&url=https%3A%2F%2Fyoursoftwaredev.com)](https://yoursoftwaredev.com)
+[![Website](https://img.shields.io/website?label=itechteams.com&style=for-the-badge&url=https://www.itechteams.com)](https://itechteams.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimnd2000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fibrahimnd2000&screen_name=ibrahimnd2000)
 
 ## FullStack Developer (Flutter, Android & IOS)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about AI & TensorFlow
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
