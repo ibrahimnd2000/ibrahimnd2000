@@ -1,6 +1,6 @@
-# Hi there, I'm Ibrahim - aka [ITECHTEAMS][website] 👋
+# Hi there, I'm Ibrahim - aka [mibrahim.dev][website] 👋
 
-[![Website](https://img.shields.io/website?label=itechteams.com&style=for-the-badge&url=https://www.itechteams.com)](https://itechteams.com)
+[![Website](https://img.shields.io/website?label=mibrahim.dev&style=for-the-badge&url=https://mibrahim.dev)](https://mibrahim.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimnd2000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fibrahimnd2000&screen_name=ibrahimnd2000)
 
 ## FullStack Developer (Flutter, Android & IOS)
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://yoursoftwaredev.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://yoursoftwaredev.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://mibrahim.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mibrahim.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCVa_gyEymbpP5MaGtdM6r7Q#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCVa_gyEymbpP5MaGtdM6r7Q#gh-dark-mode-only)
@@ -31,13 +31,8 @@
 
 [![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimnd2000&theme=rose_pine&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: mibrahim.dev
+[twitter]: https://twitter.com/ibrahimnd2000
+[youtube]: https://youtube.com/@ibrahimnd2000
+[instagram]: https://instagram.com/ibrahimnd2000
+[linkedin]: https://linkedin.com/in/ibrahimnd
