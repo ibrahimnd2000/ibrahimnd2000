@@ -27,6 +27,12 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/ibrahimnd2000#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ibrahimnd2000#gh-dark-mode-only)
 
+### My Certifications
+
+<a href="https://www.credly.com/badges/c7b09078-6b63-4fd1-bda9-eb0d5a68d1ed"><img src="./img/AWS.png" width="200"></a>
+
+<a href="https://www.credential.net/bc002f03-0f07-4a1d-b768-651f8207050d" width="200"><img src="./img/TensorFlow.png" width="200"></a>
+
 ### My Stats
 
 [![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimnd2000&theme=rose_pine&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
