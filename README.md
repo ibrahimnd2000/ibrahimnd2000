@@ -29,9 +29,16 @@
 
 ### My Certifications
 
-<a href="https://www.credly.com/badges/c7b09078-6b63-4fd1-bda9-eb0d5a68d1ed"><img src="./img/AWS.png" width="200"></a>
-
-<a href="https://www.credential.net/bc002f03-0f07-4a1d-b768-651f8207050d" width="200"><img src="./img/TensorFlow.png" width="200"></a>
+<table border="0">
+ <tr>
+    <td><a href="https://www.credly.com/badges/c7b09078-6b63-4fd1-bda9-eb0d5a68d1ed"><img src="./img/AWS.png" width="200"></a></td>
+    <td><a href="https://www.credential.net/bc002f03-0f07-4a1d-b768-651f8207050d" width="200"><img src="./img/TensorFlow.png" width="200"></a></td>
+ </tr>
+ <tr>
+    <td><a href="https://www.credly.com/badges/c7b09078-6b63-4fd1-bda9-eb0d5a68d1ed">AWS Certified Developer - Associate</a></td>
+    <td><a href="https://www.credly.com/badges/c7b09078-6b63-4fd1-bda9-eb0d5a68d1ed">TensorFlow Certified Developer</a></td>
+ </tr>
+</table>
 
 ### My Stats
 
