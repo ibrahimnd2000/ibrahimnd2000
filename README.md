@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=mibrahim.dev&style=for-the-badge&url=https://mibrahim.dev)](https://mibrahim.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimnd2000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fibrahimnd2000&screen_name=ibrahimnd2000)
 
-## FullStack Developer (Flutter, Android & IOS)
+## FullStack Developer (WebApp, ML, Quantum, Flutter, Android & IOS)
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about AI & TensorFlow
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play guitar/drums
 
 ### Connect with me:
 
