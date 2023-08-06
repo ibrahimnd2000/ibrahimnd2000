@@ -1,4 +1,4 @@
-# Hi there, I'm Ibrahim - aka [mibrahim.dev][website] 👋
+# Hi there, I'm Ibrahim - aka [mibrahim.dev](https://www.mibrahim.dev) 👋
 
 [![Website](https://img.shields.io/website?label=mibrahim.dev&style=for-the-badge&url=https://mibrahim.dev)](https://mibrahim.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibrahimnd2000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fibrahimnd2000&screen_name=ibrahimnd2000)
