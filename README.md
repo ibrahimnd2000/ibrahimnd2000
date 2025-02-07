@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about AI & TensorFlow
+- 🥅 2025 Goals: Learn more about AI & TensorFlow
 - ⚡ Fun fact: I love to draw and play guitar/drums
 
 ### Connect with me:
